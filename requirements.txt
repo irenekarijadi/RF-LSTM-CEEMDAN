@@ -1,3 +1,4 @@
+matplotlib
 EMD-signal
 git+https://github.com/tensorflow/docs
 pandas
