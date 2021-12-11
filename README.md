@@ -81,6 +81,16 @@ The performance of the proposed method was compared with other prediction method
 
 According to the experimental results, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
+## Percentage Improvement
+To further measure the improvement of the proposed method to other benchmarking methods, we compute 
+The percentages of error improvement with other benchmark methods are computed
+
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univdorm.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univlab.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univclass.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_office.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_primclass.PNG)
+
 
 ## A list of python files:
 
