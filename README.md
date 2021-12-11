@@ -33,13 +33,14 @@ Related packages:
 * EMD-signal
 * pandas
 * python-math
+* keras
 * tensorflow>=2.0.0
 * sklearn
 * numpy
 * python-time
 
 
-The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/requirements.txt)
+The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
 
 In order to run the model, the packages need to be installed first using this code:
 
@@ -53,15 +54,14 @@ We used a public dataset from the [Building Data Genome Project](https://www.goo
 
 
 Five different buildings are used in this study and you can download it here:
-[Office Building](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/data%20of%20Office_Abigail.csv), [University Classroom Building](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/data%20of%20UnivClass_Abby.csv),[University Dormitory Building](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/data%20of%20UnivDorm_Prince.csv),[University Laboratory Building](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/2.%20Experiment%20University%20Laboratory.ipynb), [Primary Classroom Building](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/5.%20Experiment%20Primary%20Classroom%20Building.ipynb)
+[Office Building](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Dataset/data%20of%20Office_Abigail.csv), [University Classroom Building](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Dataset/data%20of%20UnivClass_Abby.csv),[University Dormitory Building](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Dataset/data%20of%20UnivDorm_Prince.csv),[University Laboratory Building](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Dataset/data%20of%20UnivLab_Christy.csv), [Primary Classroom Building](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Dataset/data%20of%20PrimClass_Jaden.csv)
 
-To visualize hourly energy consumption from five buildings, please  running the [Plot Dataset.ipynb](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
+To visualize hourly energy consumption from five buildings, please  running the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
 
-![alt text](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/main/hourly%20energy%20consumption%20from%20five%20buildings.png)
-
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/hourly%20energy%20consumption%20from%20five%20buildings.png)
 
 ## Setting
-A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the setting.ipynb file
+A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the [Setting.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Setting.ipynb)
 
 ## Results
 
