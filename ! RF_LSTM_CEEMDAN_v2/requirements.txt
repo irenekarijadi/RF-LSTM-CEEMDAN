@@ -1,0 +1,9 @@
+EMD-signal
+git+https://github.com/tensorflow/docs
+pandas
+python-math
+tensorflow>=2.0.0
+sklearn
+numpy
+import_ipynb
+python-time
