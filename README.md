@@ -94,7 +94,14 @@ The percentages of error improvement with other benchmark methods are computed
 
 ## A list of python files:
 
-* Plot Dataset.ipynb : Exploratory analysis and plots of data
-* Linear_regression.ipynb : Implement function for the Linear Regression model. 
-* 1.Experiment University Dormitory Building.ipynb : The executable python program of proposed method and other benchmarking methods for university dormitory building dataset
+* ! main.ipynb : The executable python program of proposed method and other benchmarking methods
+* Plot Dataset.ipynb : Plots of data
+* Linear_regression.ipynb : Function for the Linear Regression model
+* support_vector_regression.ipynb : Function for the Support Vector Regression model
+* artificial_neural_network.ipynb : Function for the Artificial Neural Network model
+* random_forest.ipynb : Function for the Random Forest model
+* lstm.ipynb : Function for the LSTM model
+* hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf model
+* hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm model
+* proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the Linear Regression model
 
