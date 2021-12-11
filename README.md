@@ -68,7 +68,10 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 
 
-* To obtain the experimental result for University Dormitory, please run the [1. Experiment University Dormitory Building.ipynb](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/main/1.%20Experiment%20University%20Dormitory%20Building.ipynb)
+* To obtain the experimental results, please run the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
+![alt text](ttps://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm%20result.PNG)
+![alt text](ttps://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab%20result.PNG)
+![alt text](ttps://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass%20result.PNG)
 
 
 According to the results in Table 3, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
