@@ -75,9 +75,11 @@ The performance of the proposed method was compared with other prediction method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass%20result.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/office%20result.PNG)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/primclass%20result.PNG)
 
 
-According to the results in Table 3, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
+According to the experimental results, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
 
 ## A list of python files:
