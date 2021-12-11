@@ -25,7 +25,7 @@ This repository contains all the code for the hybrid method using RF-LSTM based 
 
 ## Framework
 This is the framework of the proposed method
-![alt text](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/main/Framework.png)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
 ## Requirement
 Related packages:
