@@ -1,5 +1,3 @@
-# RF-LSTM-CEEMDAN
-
 # Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/HEAD)
 
