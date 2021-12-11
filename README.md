@@ -42,6 +42,8 @@ Related packages:
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN/blob/v1/requirements.txt)
 
 In order to run the model, the packages need to be installed first using this code:
+
+
 `!pip install -r requirements.txt()`
 
 
