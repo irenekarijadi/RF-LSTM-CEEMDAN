@@ -39,14 +39,7 @@ Related packages:
 * numpy
 * python-time
 
-
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
-
-In order to run the model, the packages need to be installed first using this code:
-
-
-`!pip install -r requirements.txt()`
-
 
 ## Dataset
 
@@ -63,6 +56,14 @@ To visualize hourly energy consumption from five buildings, please  running the 
 
 ## Setting
 A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the [Setting.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Setting.ipynb)
+
+## Code Setup
+
+1. In order to run the model, the packages need to be installed first using this code:
+`!pip install -r requirements.txt()`
+
+2. Running the ! main.py file will run the simulations
+
 
 ## Results
 
@@ -93,7 +94,8 @@ The percentages of error improvement with other benchmark methods are computed i
 
 ## A list of python files:
 
-* ! main.ipynb : The executable python program of proposed method and other benchmarking methods
+* ! main.ipynb : This is the main file used to define and run the simulations
+* Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
 * Plot Dataset.ipynb : Plots of data
 * Linear_regression.ipynb : Function for the Linear Regression model
 * support_vector_regression.ipynb : Function for the Support Vector Regression model
