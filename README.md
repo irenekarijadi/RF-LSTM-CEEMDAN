@@ -103,5 +103,5 @@ The percentages of error improvement with other benchmark methods are computed i
 * lstm.ipynb : Function for the LSTM model
 * hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf model
 * hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm model
-* proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the Linear Regression model
+* proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the proposed hybrid ceemdan rf lstm
 
