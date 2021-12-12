@@ -62,7 +62,8 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 1. In order to run the model, the packages need to be installed first using this code:
 `!pip install -r requirements.txt()`
 
-2. Running the ! main.py file will run the simulations
+2. Running the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
+file will run the simulations
 
 
 ## Results
@@ -70,8 +71,7 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 
 
-* To obtain the experimental results, please run the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
-
+* To obtain the experimental results, please run the 
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass%20result.PNG)
