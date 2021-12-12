@@ -60,7 +60,7 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 ## Code Setup
 
 1. In order to run the model, the packages need to be installed first using this code:
-`!pip install -r requirements.txt()`
+`pip install -r requirements.txt()`
 
 2. Running the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
 file will run the simulations
@@ -96,12 +96,12 @@ The percentages of error improvement with other benchmark methods are computed i
 * ! main.ipynb : This is the main file used to define and run the simulations
 * Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
 * Plot Dataset.ipynb : Plots of data
-* Linear_regression.ipynb : Function for the Linear Regression model
-* support_vector_regression.ipynb : Function for the Support Vector Regression model
-* artificial_neural_network.ipynb : Function for the Artificial Neural Network model
-* random_forest.ipynb : Function for the Random Forest model
-* lstm.ipynb : Function for the LSTM model
-* hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf model
-* hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm model
+* Linear_regression.ipynb : Function for the Linear Regression
+* support_vector_regression.ipynb : Function for the Support Vector Regression 
+* artificial_neural_network.ipynb : Function for the Artificial Neural Network 
+* random_forest.ipynb : Function for the Random Forest 
+* lstm.ipynb : Function for the LSTM 
+* hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf 
+* hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm 
 * proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the proposed hybrid ceemdan rf lstm
 
