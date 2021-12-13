@@ -92,16 +92,18 @@ The percentages of error improvement with other benchmark methods are computed i
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_primclass.PNG)
 
 
-## A list of python files:
 
-
-Project Organization
+File Organization
 ------------
 
     ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-
-
+    ├── README.md          <- The README file for using this code
+    ├── data
+    │   ├── external       <- Data from third party sources.
+    │   ├── interim        <- Intermediate data that has been transformed.
+    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── raw            <- The original, immutable data dump.
+    
 * ! main.ipynb : This is the main file used to define and run the simulations
 * Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
 * Plot Dataset.ipynb : Plots of data
