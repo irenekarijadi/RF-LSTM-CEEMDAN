@@ -99,18 +99,15 @@ File Organization
     ├── LICENSE
     ├── README.md          <- The README file for using this code
     ├── Dataset           <- Building energy consumption data from Building Data Genome Project that used in this study
-    ├── Figures
-    
-    
-* ! main.ipynb : This is the main file used to define and run the simulations
-* Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
-* Plot Dataset.ipynb : Plots of data
-* Linear_regression.ipynb : Function for the Linear Regression
-* support_vector_regression.ipynb : Function for the Support Vector Regression 
-* artificial_neural_network.ipynb : Function for the Artificial Neural Network 
-* random_forest.ipynb : Function for the Random Forest 
-* lstm.ipynb : Function for the LSTM 
-* hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf 
-* hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm 
-* proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the proposed hybrid ceemdan rf lstm
+    ├── ! main.ipynb      <- This is the main file used to define and run the simulations
+    ├── Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
+    ├── Plot Dataset.ipynb : Plots of data
+    ├── Linear_regression.ipynb : Function for the Linear Regression
+    ├── support_vector_regression.ipynb : Function for the Support Vector Regression 
+    ├── artificial_neural_network.ipynb : Function for the Artificial Neural Network \
+    ├── random_forest.ipynb : Function for the Random Forest 
+    ├── lstm.ipynb : Function for the LSTM 
+    ├── hybrid_ceemdan_rf.ipynb : Function for the hybrid ceemdan rf 
+    ├── hybrid_ceemdan_lstm.ipynb : Function for the hybrid ceemdan lstm 
+    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb : Function for the proposed hybrid ceemdan rf lstm
 
