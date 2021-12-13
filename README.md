@@ -28,17 +28,11 @@ This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
 ## Requirement
-Related packages:
-
-Python (>= 3.5)
-NumPy (>= 1.11.0)
-SciPy (>= 0.17.0)
-joblib (>= 0.11)
-
-* EMD-signal
-* pandas
-* python-math
-* keras
+* python 3.7.6
+* EMD-signal 
+* pandas 0.25.3
+* python-math 
+* keras 2.4.3
 * tensorflow>=2.0.0
 * sklearn 0.22.1
 * numpy
