@@ -12,7 +12,7 @@ This repository contains all the code for the hybrid method using RF-LSTM based 
 
 * [Background](#Background) 
 * [Framework](#Framework) 
-* [Requirement](#Requirement) 
+* [Installation Requirement](#Installation Requirement) 
 * [Dataset](#Dataset) 
 * [Setting](#Setting)
 * [Results](#Results)
@@ -27,7 +27,9 @@ This repository contains all the code for the hybrid method using RF-LSTM based 
 This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
-## Requirement
+## Installation Requirement
+In order to run the model, a number of packages need to be installed. I've listed the versions that I used to run all my simulations, and in most cases its probably fine to run with newer package versions. However, this is not guaranteed to always be the case
+
 * python 3.7.6
 * EMD-signal 0.2.10
 * pandas 0.25.3
