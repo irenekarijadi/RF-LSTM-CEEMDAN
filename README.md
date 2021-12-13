@@ -29,7 +29,7 @@ This is the framework of the proposed method
 
 ## Requirement
 * python 3.7.6
-* EMD-signal 
+* EMD-signal 0.2.10
 * pandas 0.25.3
 * python-math 
 * keras 2.4.3
