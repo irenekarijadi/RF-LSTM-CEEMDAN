@@ -29,6 +29,7 @@ This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
 ## Installation Requirement
+
 The proposed method is coded in Python 3.7.6
 In order to run the model, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
 
@@ -98,16 +99,16 @@ File Organization
 
     ├── LICENSE
     ├── README.md          <- The README file for using this code
-    ├── Dataset            <- Building energy consumption data from Building Data Genome Project that used in this study
-    ├── ! main.ipynb       <- This is the main file used to define and run the simulations
+    ├── Dataset            <- Data used in this study can be found in Dataset directory with a description of the 
+    ├── ! main.ipynb       <- This is the main file used to run the experiments using settings specified in Setting.ipynb
     ├── Setting.ipynb      <-  This is a file used to set a number of parameters that are used throughout the functions in the directory.
     ├── Plot Dataset.ipynb <-  Plots of data
-    ├── Linear_regression.ipynb <-  Function for the Linear Regression
-    ├── support_vector_regression.ipynb <-  Function for the Support Vector Regression 
-    ├── artificial_neural_network.ipynb <-  Function for the Artificial Neural Network 
-    ├── random_forest.ipynb <-  Function for the Random Forest 
-    ├── lstm.ipynb <-  Function for the LSTM 
-    ├── hybrid_ceemdan_rf.ipynb <-  Function for the hybrid ceemdan rf 
-    ├── hybrid_ceemdan_lstm.ipynb <-  Function for the hybrid ceemdan lstm 
-    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb <-  Function for the proposed hybrid ceemdan rf lstm
+    ├── Linear_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── support_vector_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── artificial_neural_network.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── random_forest.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── hybrid_ceemdan_rf.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── hybrid_ceemdan_lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result 
+    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
 
