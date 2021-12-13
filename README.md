@@ -30,6 +30,11 @@ This is the framework of the proposed method
 ## Requirement
 Related packages:
 
+Python (>= 3.5)
+NumPy (>= 1.11.0)
+SciPy (>= 0.17.0)
+joblib (>= 0.11)
+
 * EMD-signal
 * pandas
 * python-math
