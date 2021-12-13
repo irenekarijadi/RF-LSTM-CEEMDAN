@@ -98,12 +98,7 @@ File Organization
 
     ├── LICENSE
     ├── README.md          <- The README file for using this code
-    ├── Dataset
-    │   ├── data of Office_Abigail.csv      <- Office building energy consumption data from Building Data Genome Project that used in this study
-    │   ├── data of Primclass_Jaden.csv      <- Primary Classroom building energy consumption data from Building Data Genome Project that used in this study
-    │   ├── data of UnivClass_Abby.csv      <- University Classroom building energy consumption data from Building Data Genome Project that used in this study
-    │   └── data of UnivDorm_Prince.csv      <- University Dormitory building energy consumption data from Building Data Genome Project that used in this study
-    │   └── data of UnivLab_Christy.csv      <- University Laboratory building energy consumption data from Building Data Genome Project that used in this study
+    ├── Dataset           <- Building energy consumption data from Building Data Genome Project that used in this study
     ├── Figures
     
     
