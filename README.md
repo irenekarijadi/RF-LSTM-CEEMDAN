@@ -8,7 +8,8 @@ This repository contains all the code for the hybrid method using RF-LSTM based 
 
 *corresponding author: irenekarijadi92@gmail.com (Irene Karijadi)*
 
-## Table of Contents
+Table of Contents
+=================
 
 * [Background](#Background) 
 * [Framework](#Framework) 
