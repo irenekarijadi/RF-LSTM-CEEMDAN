@@ -29,9 +29,9 @@ This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
 ## Installation Requirement
+The proposed method is coded in Python 3.7.6
 In order to run the model, a number of packages need to be installed. Here are the list of the package  version that I used to run all my simulations
 
-* python 3.7.6
 * EMD-signal 0.2.10
 * pandas 0.25.3
 * keras 2.4.3
