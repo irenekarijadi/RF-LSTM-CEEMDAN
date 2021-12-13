@@ -35,7 +35,7 @@ Related packages:
 * python-math
 * keras
 * tensorflow>=2.0.0
-* sklearn
+* sklearn 0.22.1
 * numpy
 * python-time
 
