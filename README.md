@@ -100,10 +100,12 @@ File Organization
     ├── README.md          <- The README file for using this code
     ├── Dataset
     │   ├── data of Office_Abigail.csv      <- Office building energy consumption data from Building Data Genome Project that used in this study
-    │   ├── data of Primclass_Jaden.csv      <- Primary Classroom building energy consumption data from Building Data Genome Project.
-    │   ├── data of UnivClass_Abby.csv      <- University Classroom building energy consumption data from Building Data Genome Project.
-    │   └── data of UnivDorm_Prince.csv      <- University Dormitory building energy consumption data from
-    │   └── data of UnivLab_Christy.csv      <- University Laboratory building energy consumption data from Building Data Genome Project.
+    │   ├── data of Primclass_Jaden.csv      <- Primary Classroom building energy consumption data from Building Data Genome Project that used in this study
+    │   ├── data of UnivClass_Abby.csv      <- University Classroom building energy consumption data from Building Data Genome Project that used in this study
+    │   └── data of UnivDorm_Prince.csv      <- University Dormitory building energy consumption data from Building Data Genome Project that used in this study
+    │   └── data of UnivLab_Christy.csv      <- University Laboratory building energy consumption data from Building Data Genome Project that used in this study
+    ├── Figures
+    
     
 * ! main.ipynb : This is the main file used to define and run the simulations
 * Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
