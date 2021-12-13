@@ -31,7 +31,6 @@ This is the framework of the proposed method
 * python 3.7.6
 * EMD-signal 0.2.10
 * pandas 0.25.3
-* python-math 
 * keras 2.4.3
 * tensorflow>=2.0.0
 * sklearn 0.22.1
