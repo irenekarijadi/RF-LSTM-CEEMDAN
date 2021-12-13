@@ -103,12 +103,12 @@ File Organization
     ├── ! main.ipynb       <- This is the main file used to run the experiments using settings specified in Setting.ipynb
     ├── Setting.ipynb      <-  This is a file used to set a number of parameters that are used throughout the functions in the directory.
     ├── Plot Dataset.ipynb <-  Plots of data
-    ├── Linear_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── support_vector_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── artificial_neural_network.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── random_forest.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── hybrid_ceemdan_rf.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
-    ├── hybrid_ceemdan_lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result 
-    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experimental result
+    ├── Linear_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experiments
+    ├── support_vector_regression.ipynb <-  This file contains all the functions for the Support Vector Regression that are used in the experiments
+    ├── artificial_neural_network.ipynb <-  This file contains all the functions for the Artificial Neural Networks that are used in the experiments
+    ├── random_forest.ipynb <-  This file contains all the functions for the Random Forest hat are used in the experiments
+    ├── lstm.ipynb <-  This file contains all the functions for the LSTM that are used in the experiments
+    ├── hybrid_ceemdan_rf.ipynb <-  This file contains all the functions for the hybrid ceemdan rf that are used in the experiments
+    ├── hybrid_ceemdan_lstm.ipynb <-  This file contains all the functions for the hybrid ceemdan lstm that are used in the experiments
+    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb <-  This file contains all the functions for the proposed method that are used in the experiments
 
