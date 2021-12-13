@@ -104,7 +104,7 @@ File Organization
     ├── Plot Dataset.ipynb <-  Plots of data
     ├── Linear_regression.ipynb <-  Function for the Linear Regression
     ├── support_vector_regression.ipynb <-  Function for the Support Vector Regression 
-    ├── artificial_neural_network.ipynb <-  Function for the Artificial Neural Network \
+    ├── artificial_neural_network.ipynb <-  Function for the Artificial Neural Network 
     ├── random_forest.ipynb <-  Function for the Random Forest 
     ├── lstm.ipynb <-  Function for the LSTM 
     ├── hybrid_ceemdan_rf.ipynb <-  Function for the hybrid ceemdan rf 
