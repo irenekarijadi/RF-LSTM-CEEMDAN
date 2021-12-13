@@ -31,7 +31,7 @@ This is the framework of the proposed method
 
 ## Installation Requirement
 
-The proposed method is coded in Python 3.7.6
+The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB. 
 In order to run the model, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
 
 * EMD-signal 0.2.10
@@ -43,6 +43,7 @@ In order to run the model, a number of packages need to be installed. Here are t
 
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
+
 
 ## Dataset
 
