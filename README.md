@@ -97,6 +97,7 @@ File Organization
     ├── LICENSE
     ├── README.md          <- The README file for using this code
     ├── Dataset            <- Data used in this study can be found in Dataset directory with a description of the 
+    ├── Figures            <- Generated graphics and figures to be used in reporting
     ├── ! main.ipynb       <- This is the main file used to conduct all the experiments using settings specified in Setting.ipynb
     ├── Setting.ipynb      <-  This is a file used to set a number of parameters that are used throughout the functions in the directory.
     ├── Plot Dataset.ipynb <-  This file contains the script to visualize the data
