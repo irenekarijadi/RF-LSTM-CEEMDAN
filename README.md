@@ -98,11 +98,11 @@ File Organization
 
     ├── LICENSE
     ├── README.md          <- The README file for using this code
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    ├── Dataset
+    │   ├── data of Office_Abigail.csv      <- Office building energy consumption data from Building Data Genome Project.
+    │   ├── data of Office_Abigail.csv      <- Intermediate data that has been transformed.
+    │   ├── data of Office_Abigail.csv      <- The final, canonical data sets for modeling.
+    │   └── data of Office_Abigail.csv      <- The original, immutable data dump.
     
 * ! main.ipynb : This is the main file used to define and run the simulations
 * Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
