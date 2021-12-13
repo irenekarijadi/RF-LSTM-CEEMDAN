@@ -94,6 +94,14 @@ The percentages of error improvement with other benchmark methods are computed i
 
 ## A list of python files:
 
+
+Project Organization
+------------
+
+    ├── LICENSE
+    ├── README.md          <- The top-level README for developers using this project.
+
+
 * ! main.ipynb : This is the main file used to define and run the simulations
 * Setting.ipynb: This is a file used to set a number of parameters that are used throughout the functions in the directory.
 * Plot Dataset.ipynb : Plots of data
