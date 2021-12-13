@@ -35,7 +35,7 @@ This is the framework of the proposed method
 * keras 2.4.3
 * tensorflow>=2.0.0
 * sklearn 0.22.1
-* numpy
+* numpy 1.18.1
 * python-time
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
