@@ -29,7 +29,7 @@ This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
 ## Installation Requirement
-In order to run the model, a number of packages need to be installed. I've listed the versions that I used to run all my simulations, and in most cases its probably fine to run with newer package versions. However, this is not guaranteed to always be the case
+In order to run the model, a number of packages need to be installed. Here are the list of the package  version that I used to run all my simulations
 
 * python 3.7.6
 * EMD-signal 0.2.10
