@@ -59,19 +59,16 @@ To visualize hourly energy consumption from five buildings, please  running the 
 ## Setting
 A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the [Setting.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Setting.ipynb)
 
-## Code Setup
+## Reproducibility workflow
 
 1. In order to run the model, the packages need to be installed first using this code:
 `pip install -r requirements.txt()`
+2. To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
+3. For experiments, the results of the proposed method and other benchmarking methods can be obtained by running the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
 
-2. Running the [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
-file will run the simulations
 
-
-## Results
-
+### Results
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
-
 
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab%20result.PNG)
@@ -79,10 +76,9 @@ The performance of the proposed method was compared with other prediction method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/office%20result.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/primclass%20result.PNG)
 
-
 According to the experimental results, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
-## Percentage Improvement
+### Percentage Improvement
 We further measure the improvement of the proposed method to other benchmarking methods.
 The percentages of error improvement with other benchmark methods are computed in the file [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
 
