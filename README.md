@@ -1,7 +1,8 @@
 # Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)
  
-This repository contains all the code for the hybrid method using RF-LSTM based CEEMDAN
+This is the original source code used for all experiments in the paper "A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"
+
 
 ## Authors
 *Irene Karijadi, Shuo-Yan Chou*
