@@ -30,7 +30,7 @@ This is the framework of the proposed method
 
 ## Installation Requirement
 The proposed method is coded in Python 3.7.6
-In order to run the model, a number of packages need to be installed. Here are the list of the package  version that I used to run all my simulations
+In order to run the model, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
 
 * EMD-signal 0.2.10
 * pandas 0.25.3
