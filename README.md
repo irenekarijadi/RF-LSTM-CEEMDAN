@@ -100,9 +100,9 @@ File Organization
     ├── LICENSE
     ├── README.md          <- The README file for using this code
     ├── Dataset            <- Data used in this study can be found in Dataset directory with a description of the 
-    ├── ! main.ipynb       <- This is the main file used to run the experiments using settings specified in Setting.ipynb
+    ├── ! main.ipynb       <- This is the main file used to run all the experiments using settings specified in Setting.ipynb
     ├── Setting.ipynb      <-  This is a file used to set a number of parameters that are used throughout the functions in the directory.
-    ├── Plot Dataset.ipynb <-  Plots of data
+    ├── Plot Dataset.ipynb <-  This file contains the script to visualize the data
     ├── Linear_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experiments
     ├── support_vector_regression.ipynb <-  This file contains all the functions for the Support Vector Regression that are used in the experiments
     ├── artificial_neural_network.ipynb <-  This file contains all the functions for the Artificial Neural Networks that are used in the experiments
