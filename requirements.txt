@@ -1,9 +1,7 @@
-EMD-signal
+EMD-signal==0.2.10
 git+https://github.com/tensorflow/docs
-pandas
-python-math
+pandas==0.25.3
 tensorflow>=2.0.0
-sklearn
-numpy
+sklearn==0.22.1
+numpy==1.18.1
 import_ipynb
-python-time
