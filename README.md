@@ -21,10 +21,10 @@ Table of Contents
 * [Background](#Background) 
 * [Framework](#Framework) 
 * [Installation Requirement](#Installation-Requirement) 
+* [Description of files](#Description-of-files)
 * [Dataset](#Dataset) 
 * [Setting](#Setting)
 * [Reproducibility workflow](#Reproducibility-workflow)
-* [File Organization](#File-Organization)
 
 
 ## Background
@@ -39,7 +39,7 @@ This is the framework of the proposed method
 ## Installation Requirement
 
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB. 
-In order to run the model, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
+In order to run the experiments, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
 
 * EMD-signal 0.2.10
 * pandas 0.25.3
@@ -50,6 +50,34 @@ In order to run the model, a number of packages need to be installed. Here are t
 
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
+
+Description of Files
+------------
+
+Non-Python files:
+
+filename                          |  description
+----------------------------------|------------------------------------------------------------------------------------
+Dataset                           |  Data used in this study can be found in Dataset directory 
+Figures                           |  Generated graphics and figures to be used in reporting
+README.md                         |  The README file for using this code
+License                           |  Data used in this study can be found in Dataset directory 
+
+Python files:
+
+filename                          |  description
+----------------------------------|------------------------------------------------------------------------------------
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb. This file uses the functions defined in the spam_detector.py file and generates the model.txt file after execution.
+Setting.ipynb                     | This is a file used to set a number of parameters that are used throughout the functions in the directory
+Plot Dataset.ipynb                | This file contains the script to visualize the data
+Linear_regression.ipynb           | This file includes all functions required for Linear Regression that are used in the experiments
+Support_vector_regression.ipynb   | This file includes all functions required for SVR that are used in the experiments
+Artificial_neural_network.ipynb   | This file includes all functions required for ANN that are used in the experiments
+Random_forest.ipynb               | This file includes all functions required for RF that are used in the experiments
+lstm.ipynb                        | This file includes all functions required for LSTM that are used in the experiments
+hybrid_ceemdan_rf.ipynb           | This file includes all functions required for Hybrid CEEMDAN RF that are used in the experiments
+hybrid_ceemdan_lstm.ipynb         | This file includes all functions required for Hybrid CEEMDAN LSTM that are used in the experiments
+Proposed_method.ipynb             | This file includes all functions required for Proposed Method that are used in the experiments
 
 
 ## Dataset
@@ -98,23 +126,4 @@ The percentages of error improvement with other benchmark methods are computed i
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_primclass.PNG)
 
 
-
-File Organization
-------------
-
-    ├── LICENSE
-    ├── README.md          <- The README file for using this code
-    ├── Dataset            <- Data used in this study can be found in Dataset directory with a description of the 
-    ├── Figures            <- Generated graphics and figures to be used in reporting
-    ├── ! main.ipynb       <- This is the main file used to conduct all the experiments using settings specified in Setting.ipynb
-    ├── Setting.ipynb      <-  This is a file used to set a number of parameters that are used throughout the functions in the directory.
-    ├── Plot Dataset.ipynb <-  This file contains the script to visualize the data
-    ├── Linear_regression.ipynb <-  This file contains all the functions for the Linear Regression that are used in the experiments
-    ├── support_vector_regression.ipynb <-  This file contains all the functions for the Support Vector Regression that are used in the experiments
-    ├── artificial_neural_network.ipynb <-  This file contains all the functions for the Artificial Neural Networks that are used in the experiments
-    ├── random_forest.ipynb <-  This file contains all the functions for the Random Forest hat are used in the experiments
-    ├── lstm.ipynb <-  This file contains all the functions for the LSTM that are used in the experiments
-    ├── hybrid_ceemdan_rf.ipynb <-  This file contains all the functions for the hybrid ceemdan rf that are used in the experiments
-    ├── hybrid_ceemdan_lstm.ipynb <-  This file contains all the functions for the hybrid ceemdan lstm that are used in the experiments
-    ├── proposed_model_hybrid_ceemdan_rf_lstm.ipynb <-  This file contains all the functions for the proposed method that are used in the experiments
 
