@@ -61,13 +61,12 @@ filename                          |  description
 Dataset                           |  Data used in this study can be found in Dataset directory 
 Figures                           |  Generated graphics and figures to be used in reporting
 README.md                         |  The README file for using this code
-License                           |  Data used in this study can be found in Dataset directory 
-
+License                           | License file
 Python files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb. This file uses the functions defined in the spam_detector.py file and generates the model.txt file after execution.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
 Setting.ipynb                     | This is a file used to set a number of parameters that are used throughout the functions in the directory
 Plot Dataset.ipynb                | This file contains the script to visualize the data
 Linear_regression.ipynb           | This file includes all functions required for Linear Regression that are used in the experiments
