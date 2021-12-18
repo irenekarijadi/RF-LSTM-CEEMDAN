@@ -134,14 +134,17 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 
 <!-- Results-->
 <h2 id=Result>:computer: Result</h2>
-                                                 
+<p align="justify">                                                  
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
+</p>
+After executing these files:                
 [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
 [2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/2.%20Experiments%20for%20University%20Laboratory%20Building.ipynb)
 [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb)
 [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb)
 [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb)
-                         
+ 
+We can obtain the performance results and percentage of improvement of the proposed method compared with other benchmarking methods        
 The performance of the proposed method compared with other benchmarking methods are shown in the following tables.
 <p align="center">
   <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
