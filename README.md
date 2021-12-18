@@ -136,14 +136,14 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
                                                  
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 The performance of personal other benchmarking methods are shown in the following tables.
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm_summary_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab_summary_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass_summary_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/office_summary_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/primclass_summary_table.png)
-According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
+<p align="center">
+  <img src="univdorm_summary_table.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
 
                          
+According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
+
 ### Percentage Improvement
 We further measure the improvement of the proposed method to other benchmarking methods.
 The percentages of error improvement with other benchmark methods are computed in the file [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
