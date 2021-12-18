@@ -50,7 +50,8 @@ This is the framework of the proposed method
 </p>
 
 
-## Prerequisites
+<!-- PREREQUISITES -->
+<h2 id="prerequisites"> :file_folder: Prerequisites</h2>
 
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
 The python version is specified in [runtime.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/runtime.txt)
