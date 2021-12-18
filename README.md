@@ -84,28 +84,29 @@ The complete list of packages can be found in [requirements.txt.](https://github
 
 <h4>Python Files:</h4>
 <ul>
-  <li><b>1. Experiments for University Dormitory Building.ipynb</b> - This is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>2. Experiments for University Laboratory Building.ipynb</b> - This is the main file used to conduct the experiments for university laboratory building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>3. Experiments for University Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>4. Experiments for Office Building.ipynb</b> - This is the main file used to conduct the experiments for office building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>5. Experiments for Primary Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory..</li>
-</li>
+  <li><b>1. Experiments for University Dormitory Building.ipynb</b> - This is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.ipynb</li>
+  <li><b>2. Experiments for University Laboratory Building.ipynb</b> - This is the main file used to conduct the experiments for university laboratory building using parameter settings specified in Setting.ipynb</li>
+  <li><b>3. Experiments for University Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.ipynb</li>
+  <li><b>4. Experiments for Office Building.ipynb</b> - This is the main file used to conduct the experiments for office building using parameter settings specified in Setting.ipynb</li>
+  <li><b>5. Experiments for Primary Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.ipynb</li>
+  <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory</li>
+  <li><b>Plot Dataset.ipynb</b> - This file contains the script to visualize the data</li>
+  <li><b>Linear_regression.ipynb.ipynb</b> - This file includes all functions required for LR that are used in the experiments</li>
+  <li><b>support_vector_regression.ipynb.ipynb</b> - This file includes all functions required for SVR that are used in the experiments</li>
+  <li><b>artificial_neural_network.ipynb.ipynb</b> - This file includes all functions required for ANN that are used in the experiments</li>
+  <li><b>random_forest.ipynb.ipynb</b> - This file includes all functions required for RF that are used in the experiments</li>
+  <li><b>lstm.ipynb.ipynb</b> - This file includes all functions required for LSTM that are used in the experiments</li>
+  <li><b>hybrid_ceemdan_rf.ipynb.ipynb</b> - This file includes all functions required for hybrid CEEMDAN RF that are used in the experiments</li>
+  <li><b>hybrid_ceemdan_lstm.ipynb.ipynb</b> - This file includes all functions required for hybrid CEEMDAN LSTM that are used in the experiments</li>
+  <li><b>hybrid_ceemdan_lstm.ipynb.ipynb</b> - This file includes all functions required for proposed method that are used in the experiments</li>
+
+
+
 
 
 
 </ul>
 
-This is a file used to set a number of parameters that are used throughout the functions in the directory
-Plot Dataset.ipynb                | This file contains the script to visualize the data
-Linear_regression.ipynb           | This file includes all functions required for Linear Regression that are used in the experiments
-Support_vector_regression.ipynb   | This file includes all functions required for SVR that are used in the experiments
-Artificial_neural_network.ipynb   | This file includes all functions required for ANN that are used in the experiments
-Random_forest.ipynb               | This file includes all functions required for RF that are used in the experiments
-lstm.ipynb                        | This file includes all functions required for LSTM that are used in the experiments
-hybrid_ceemdan_rf.ipynb           | This file includes all functions required for Hybrid CEEMDAN RF that are used in the experiments
-hybrid_ceemdan_lstm.ipynb         | This file includes all functions required for Hybrid CEEMDAN LSTM that are used in the experiments
-Proposed_method.ipynb             | This file includes all functions required for Proposed Method that are used in the experiments
 
 
 
