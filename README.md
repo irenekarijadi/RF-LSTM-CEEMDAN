@@ -89,7 +89,7 @@ The complete list of packages can be found in [requirements.txt.](https://github
   <li><b>3. Experiments for University Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.ipynb..</li>
   <li><b>4. Experiments for Office Building.ipynb</b> - This is the main file used to conduct the experiments for office building using parameter settings specified in Setting.ipynb..</li>
   <li><b>5. Experiments for Primary Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory
+  <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory..</li>
 </li>
 
 
