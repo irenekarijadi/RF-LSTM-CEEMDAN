@@ -6,11 +6,8 @@
  
 This is the original source code used for all experiments in the paper  *"A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"* 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)
-<br />
-Access this Binder by clicking the blue badge above or at the following URL:
-<br />
-https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)<br />
+Access this Binder by clicking the blue badge above
 
 ## Authors
 *Irene Karijadi, Shuo-Yan Chou*
