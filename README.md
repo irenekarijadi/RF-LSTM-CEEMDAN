@@ -116,7 +116,9 @@ To visualize hourly energy consumption from five buildings, please  running the 
 
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/hourly%20energy%20consumption%20from%20five%20buildings.png)
 
-## Setting
+<!-- Parameter Setting -->
+<h2 id=Parameter Setting">clipboard: Parameter Setting</h2>
+
 A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the [Setting.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Setting.ipynb)
 
 ## Reproducibility workflow
