@@ -1,12 +1,8 @@
 <p align="center"> 
 </p>
-<h1 align="center"> Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN  </h1>
+<h1 align="center"> Building Energy Consumption Prediction  </h1>
 <h3 align="center"> A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction </h3>  
-
 </br>
-
-
-# Building-Energy-Prediction-using-Hybrid-RF-LSTM-based-CEEMDAN 
  
 This is the original source code used for all experiments in the paper  *"A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"* 
 
