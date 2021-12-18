@@ -31,6 +31,8 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
     <li><a href="#Dataset"> ➤ Dataset</a></li>
     <li><a href="#Parameter-Setting"> ➤ Parameter Setting</a></li>
     <li><a href="#Reproducibility-workflow"> ➤ Reproducibility workflow</a></li>
+  </ol>
+</details>
 
 <!-- Background -->
 <h2 id="Background"> :pencil: Background</h2>
