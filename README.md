@@ -145,7 +145,7 @@ After executing these files:</p>
 ➤  <b>5. Experiments for Primary Classroom Building.ipynb</b></p> 
 </p>
 We can obtain the performance results and percentage of improvement of the proposed method compared with other benchmarking methods </p>       
-The performance of the proposed method compared with other benchmarking methods are shown in the following tables.
+The performance of the proposed method compared with other benchmarking methods are shown in the following tables.</p>
 <p align="center">
   <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
