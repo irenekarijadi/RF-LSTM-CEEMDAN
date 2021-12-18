@@ -42,7 +42,7 @@ An accurate method for building energy consumption prediction is important for b
 
    
 <!-- Framework-->
-<h2 id="Framework"> :pencil: Framework</h2>
+<h2 id="Framework"> :page_with_curl: Framework</h2>
 <p align="justify"> 
 This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
