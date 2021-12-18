@@ -50,7 +50,7 @@ This is the framework of the proposed method
 </p>
 
 
-<!-- PREREQUISITES -->
+<!-- Prerequisites -->
 <h2 id="prerequisites"> :file_folder: Prerequisites</h2>
 
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
@@ -135,9 +135,25 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 <h2 id=Result>:computer: Result</h2>
                                                  
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
-The performance of personal other benchmarking methods are shown in the following tables.
+The performance of the proposed method compared with other benchmarking methods are shown in the following tables.
 <p align="center">
   <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/univlab_summary_table.png" alt="Table3" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/univclass_summary_table.png" alt="Table4" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/office_summary_table.png" alt="Table5" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/primclass_summary_table.png" alt="Table6" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 
