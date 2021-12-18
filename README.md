@@ -69,8 +69,10 @@ In order to run the experiments, a number of packages need to be installed. Here
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
 
-Description of Files
-------------
+<!-- Description of File -->
+<h2 id="prerequisite"> :floppy_disk: prerequisite</h2>
+
+This  includes 3 executable files, 3 text files as well as 2 directories as follows:
 
 Non-Python files:
 
