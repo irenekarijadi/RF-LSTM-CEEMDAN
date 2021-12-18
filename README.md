@@ -77,23 +77,26 @@ The complete list of packages can be found in [requirements.txt.](https://github
   <li><b>Dataset</b> - This folder includes all dataset used in this study</li>
   <li><b>Figures</b> - This folder includes all generated figures to be used in reporting.</li>
   <li><b>README.md</b> - The README file for using this code </li>
-  <li><b>README.md</b> - The License file </li>
+  <li><b>License</b> - The License file </li>
+  <li><b>requirement.txt</b> - This file contains list of packages used in this study </li>
+  <li><b>runtime.txt</b> - This file contains python version used in this study </li>
 </ul>
 
 <h4>Python Files:</h4>
 <ul>
   <li><b>1. Experiments for University Dormitory Building.ipynb</b> - This is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.ipynb..</li>
-  <li><b>result.txt</b> - Contains information about the classified emails of the test set.</li>
-  <li><b>evaluation.txt</b> - Contains evaluation results table as well as Confusion Matrix of Spam and Ham classes.</li>
+  <li><b>2. Experiments for University Laboratory Building.ipynb</b> - This is the main file used to conduct the experiments for university laboratory building using parameter settings specified in Setting.ipynb..</li>
+  <li><b>3. Experiments for University Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.ipynb..</li>
+  <li><b>4. Experiments for Office Building.ipynb</b> - This is the main file used to conduct the experiments for office building using parameter settings specified in Setting.ipynb..</li>
+  <li><b>5. Experiments for Primary Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.ipynb..</li>
+  <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory
+</li>
+
+
+
 </ul>
 
-
-1. Experiments for University Dormitory Building.ipynb | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
-! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
-! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
-! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
-! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
-Setting.ipynb                     | This is a file used to set a number of parameters that are used throughout the functions in the directory
+This is a file used to set a number of parameters that are used throughout the functions in the directory
 Plot Dataset.ipynb                | This file contains the script to visualize the data
 Linear_regression.ipynb           | This file includes all functions required for Linear Regression that are used in the experiments
 Support_vector_regression.ipynb   | This file includes all functions required for SVR that are used in the experiments
