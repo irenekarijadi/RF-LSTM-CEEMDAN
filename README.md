@@ -77,29 +77,17 @@ The complete list of packages can be found in [requirements.txt.](https://github
   <li><b>Dataset</b> - This folder includes all dataset used in this study</li>
   <li><b>Figures</b> - This folder includes all generated figures to be used in reporting.</li>
   <li><b>README.md</b> - The README file for using this code </li>
-  <li><b>README.md</b> - The README file for using this code </li>
+  <li><b>README.md</b> - The License file </li>
 </ul>
 
-<h4>Output Files:</h4>
+<h4>Python Files:</h4>
 <ul>
-  <li><b>model.txt</b> - Contains information about the vocabularies of the train set, such as the frequency and conditional probability of each word in Spam and Ham classes.</li>
+  <li><b>1. Experiments for University Dormitory Building.ipynb</b> - This is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.ipynb..</li>
   <li><b>result.txt</b> - Contains information about the classified emails of the test set.</li>
   <li><b>evaluation.txt</b> - Contains evaluation results table as well as Confusion Matrix of Spam and Ham classes.</li>
 </ul>
 
 
-
-Dataset                           |  Data used in this study can be found in Dataset directory 
-Figures                           |  Generated graphics and figures to be used in reporting
-README.md                         |  The README file for using this code
-License                           | License file
-
-
-
-Python files:
-
-filename                                               |  description
--------------------------------------------------------|------------------------------------------------------------------------------------
 1. Experiments for University Dormitory Building.ipynb | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
 ! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
 ! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
