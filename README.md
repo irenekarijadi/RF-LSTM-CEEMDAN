@@ -45,7 +45,7 @@ An accurate method for building energy consumption prediction is important for b
 <h2 id="Framework"> :page_with_curl: Framework</h2>
 This is the framework of the proposed method
 <p align="center">
-  <img src="Figures/Framework.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <img src="Figures/Framework.png" alt="Table1" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 
@@ -137,7 +137,7 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 The performance of personal other benchmarking methods are shown in the following tables.
 <p align="center">
-  <img src="univdorm_summary_table.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 
