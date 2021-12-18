@@ -25,14 +25,8 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
     <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#Description-of-files"> ➤ Description of files</a></li>
     <li><a href="#Dataset"> ➤ Dataset</a></li>
-
-➤ [Background](#Background) 
-➤ [Framework](#Framework) 
-➤ [Prerequisites](#Prerequisites) 
-➤ [Description of files](#Description-of-files)
-➤ [Dataset](#Dataset) 
-➤ [Setting](#Setting)
-➤ [Reproducibility workflow](#Reproducibility-workflow)
+    <li><a href="#Parameter-Setting"> ➤ Parameter Setting</a></li>
+    <li><a href="#Reproducibility-workflow"> ➤ Reproducibility workflow</a></li>
 
 
 ## Background
