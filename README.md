@@ -166,19 +166,30 @@ The performance of the proposed method compared with other benchmarking methods 
   <img src="Figures/primclass_summary_table.png" alt="Table6" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
 </p>
+</p>                                                                                     
 
-                         
-According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
-
-### Percentage Improvement
-We further measure the improvement of the proposed method to other benchmarking methods.
-The percentages of error improvement with other benchmark methods are computed in the file [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
-
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univdorm_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univlab_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univclass_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_office_table.png)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_primclass_table.png)
-
+The percentage of improvement of the proposed method compared with other benchmarking methods are shown in the following tables.
+<p align="center">
+  <img src="Figures/PI_univdorm_table.png" alt="Table2" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/PI_univlab_table.png" alt="Table3" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/PI_univclass_table.png" alt="Table4" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/PI_office_table.png" alt="Table5" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+<p align="center">
+  <img src="Figures/PI_primclass_table.png" alt="Table6" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+                                                                                      
+According to the experimental results above, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
 
