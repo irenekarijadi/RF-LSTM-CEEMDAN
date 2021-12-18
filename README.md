@@ -128,10 +128,10 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 `pip install -r requirements.txt()`
 2. To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
 3. To obtain the result for University Dormitory dataset, [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb) must be executed. 
-4. To obtain the result for University Laboratory dataset, [2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Laboratory%20Building.ipynb) must be executed. 
-5. To obtain the result for University Classroom dataset, [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Classroom%20Building.ipynb) must be executed. 
-6. To obtain the result for Office dataset, [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20Office%20Building.ipynb) must be executed. 
-7. To obtain the result for Primary Classroom dataset, [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20Office%20Classroom%20Building.ipynb) must be executed. 
+4. To obtain the result for University Laboratory dataset, [2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/2.%20Experiments%20for%20University%20Laboratory%20Building.ipynb)must be executed. 
+5. To obtain the result for University Classroom dataset, [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb) must be executed. 
+6. To obtain the result for Office dataset, [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb) must be executed. 
+7. To obtain the result for Primary Classroom dataset, [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb) must be executed. 
                          
                          
                          
