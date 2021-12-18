@@ -72,12 +72,23 @@ The complete list of packages can be found in [requirements.txt.](https://github
 <!-- Description of File -->
 <h2 id="Description of File"> :floppy_disk: Description of File</h2>
 
-This  includes 3 executable files, 3 text files as well as 2 directories as follows:
+<h4>Non-python Files:</h4>
+<ul>
+  <li><b>Dataset</b> - This folder includes all dataset used in this study</li>
+  <li><b>Figures</b> - This folder includes all generated figures to be used in reporting.</li>
+  <li><b>README.md</b> - The README file for using this code </li>
+  <li><b>README.md</b> - The README file for using this code </li>
+</ul>
 
-Non-Python files:
+<h4>Output Files:</h4>
+<ul>
+  <li><b>model.txt</b> - Contains information about the vocabularies of the train set, such as the frequency and conditional probability of each word in Spam and Ham classes.</li>
+  <li><b>result.txt</b> - Contains information about the classified emails of the test set.</li>
+  <li><b>evaluation.txt</b> - Contains evaluation results table as well as Confusion Matrix of Spam and Ham classes.</li>
+</ul>
 
-filename                          |  description
-----------------------------------|------------------------------------------------------------------------------------
+
+
 Dataset                           |  Data used in this study can be found in Dataset directory 
 Figures                           |  Generated graphics and figures to be used in reporting
 README.md                         |  The README file for using this code
