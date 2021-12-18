@@ -110,18 +110,13 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm%20result.PNG)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab%20result.PNG)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass%20result.PNG)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/office%20result.PNG)
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/primclass%20result.PNG)
 
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm_summary_table.png)
+![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab_summary_table.png)
 
 ### Percentage Improvement
 We further measure the improvement of the proposed method to other benchmarking methods.
 The percentages of error improvement with other benchmark methods are computed in the file [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
-
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univlab_table.png)
 
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univdorm.PNG)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/PI_univlab.PNG)
