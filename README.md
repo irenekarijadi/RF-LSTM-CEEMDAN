@@ -12,8 +12,6 @@ Access this Binder by clicking the blue badge above or at the following URL:
 <br />
 https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
 
-
-
 ## Authors
 *Irene Karijadi, Shuo-Yan Chou*
 
@@ -132,17 +130,18 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 5. To obtain the result for University Classroom dataset, [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb) must be executed. 
 6. To obtain the result for Office dataset, [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb) must be executed. 
 7. To obtain the result for Primary Classroom dataset, [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb) must be executed. 
-                         
-                         
-                         
-At the beginning of this file, the [University Dormitory Building](https://github.com/irenekarijadi/RF-LSTM CEEMDAN/blob/main/Dataset/data%20of%20UnivDorm_Prince.csv) has been imported. the functions defined in it can be used                         
-                         
-                         
+                                                  
 
 <!-- Results-->
 <h2 id=Result>:computer: Result</h2>
                                                  
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
+[1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
+[2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/2.%20Experiments%20for%20University%20Laboratory%20Building.ipynb)
+[3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb)
+[4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb)
+[5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb)
+                         
 The performance of the proposed method compared with other benchmarking methods are shown in the following tables.
 <p align="center">
   <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
