@@ -15,8 +15,8 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
 
 *corresponding author: irenekarijadi92@gmail.com (Irene Karijadi)*
 
-Table of Contents
-=================
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
 
 * [Background](#Background) 
 * [Framework](#Framework) 
@@ -73,6 +73,22 @@ Python files:
 filename                                               |  description
 -------------------------------------------------------|------------------------------------------------------------------------------------
 1. Experiments for University Dormitory Building.ipynb | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+Setting.ipynb                     | This is a file used to set a number of parameters that are used throughout the functions in the directory
+Plot Dataset.ipynb                | This file contains the script to visualize the data
+Linear_regression.ipynb           | This file includes all functions required for Linear Regression that are used in the experiments
+Support_vector_regression.ipynb   | This file includes all functions required for SVR that are used in the experiments
+Artificial_neural_network.ipynb   | This file includes all functions required for ANN that are used in the experiments
+Random_forest.ipynb               | This file includes all functions required for RF that are used in the experiments
+lstm.ipynb                        | This file includes all functions required for LSTM that are used in the experiments
+hybrid_ceemdan_rf.ipynb           | This file includes all functions required for Hybrid CEEMDAN RF that are used in the experiments
+hybrid_ceemdan_lstm.ipynb         | This file includes all functions required for Hybrid CEEMDAN LSTM that are used in the experiments
+Proposed_method.ipynb             | This file includes all functions required for Proposed Method that are used in the experiments
+
+
 
 ## Dataset
 
