@@ -103,8 +103,9 @@ The complete list of packages can be found in [requirements.txt.](https://github
 
 <!-- DATASET -->
 <h2 id="dataset"> :chart_with_upwards_trend: Dataset</h2>
-<p> 
-We used a public dataset from the [Building Data Genome Project](https://www.google.com/search?q=building+data+genome+project&oq=Building+Data+Genome+Project&aqs=chrome.0.35i39j69i59l2j69i64j69i59j69i60l3.558j0j7&sourceid=chrome&ie=UTF-8) 
+
+We used a public dataset from the
+[Building Data Genome Project](https://www.google.com/searchq=building+data+genome+project&oq=Building+Data+Genome+Project&aqs=chrome.0.35i39j69i59l2j69i64j69i59j69i60l3.558j0j7&sourceid=chrome&ie=UTF-8) 
 
 
 Five different buildings are used in this study and you can download it here:
