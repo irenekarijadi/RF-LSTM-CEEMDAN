@@ -63,7 +63,7 @@ In order to run the experiments, a number of packages need to be installed. Here
 * tensorflow>=2.0.0
 * sklearn==0.22.1
 * numpy==1.18.1
-* matplolib
+* matplotlib
 * dataframe_image
 
 
@@ -127,32 +127,23 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 1. In order to run the model, the packages need to be installed first using this line of code:
 `pip install -r requirements.txt()`
 2. To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
-3. To obtain the result for University Dormitory dataset, [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb) must be executed. At the beginning of this script, the [University Dormitory Building](https://github.com/irenekarijadi/RF-LSTM CEEMDAN/blob/main/Dataset/data%20of%20UnivDorm_Prince.csv) has been imported.                          
+3. To obtain the result for University Dormitory dataset, [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb) must be executed. At the beginning of this file, the [University Dormitory Building](https://github.com/irenekarijadi/RF-LSTM CEEMDAN/blob/main/Dataset/data%20of%20UnivDorm_Prince.csv) has been imported. the functions defined in it can be used                         
                          
-                         
-                         
-3. For experiments using University Dormitory dataset, the results of the proposed method and other benchmarking methods can be obtained by running the [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
-4. For experiments using University Laboratory dataset, the results of the proposed method and other benchmarking methods can be obtained by running the [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
-5. For experiments using University Classroom dataset, the results of the proposed method and other benchmarking methods can be obtained by running the [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
-6. For experiments using Office dataset, the results of the proposed method and other benchmarking methods can be obtained by running the [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
-7. For experiments using Primary Classroom dataset, the results of the proposed method and other benchmarking methods can be obtained by running the [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb)
                          
 
 <!-- Results-->
-<h2 id=Reproducibility workflow>:computer: Reproducibility workflow</h2>
-                         
-                         
-The overall accuracy score of personal and impersonal models are shown in the following tables.
-                         
+<h2 id=Result>:computer: Result</h2>
+                                                 
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
-According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
-
+The performance of personal other benchmarking methods are shown in the following tables.
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univdorm_summary_table.png)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univlab_summary_table.png)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/univclass_summary_table.png)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/office_summary_table.png)
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/primclass_summary_table.png)
+According to the experimental results obtained from running [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb) file, the proposed method has the lowest error and has the best prediction accuracy among the benchmark methods.
 
+                         
 ### Percentage Improvement
 We further measure the improvement of the proposed method to other benchmarking methods.
 The percentages of error improvement with other benchmark methods are computed in the file [! main.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/!%20main.ipynb)
