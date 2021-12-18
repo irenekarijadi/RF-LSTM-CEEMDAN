@@ -18,13 +18,13 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
-* [Background](#Background) 
-* [Framework](#Framework) 
-* [Installation Requirement](#Installation-Requirement) 
-* [Description of files](#Description-of-files)
-* [Dataset](#Dataset) 
-* [Setting](#Setting)
-* [Reproducibility workflow](#Reproducibility-workflow)
+➤ [Background](#Background) 
+➤ [Framework](#Framework) 
+➤ [Prerequisites](#Prerequisites) 
+➤ [Description of files](#Description-of-files)
+➤ [Dataset](#Dataset) 
+➤ [Setting](#Setting)
+➤ [Reproducibility workflow](#Reproducibility-workflow)
 
 
 ## Background
@@ -36,7 +36,7 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
 This is the framework of the proposed method
 ![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
 
-## Installation Requirement
+## Prerequisites
 
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
 The python version is specified in [runtime.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/runtime.txt)
