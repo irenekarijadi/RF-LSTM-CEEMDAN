@@ -137,11 +137,14 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 <p align="justify">                                                  
 The performance of the proposed method was compared with other prediction methods, including linear regression (LR), random forest (RF), support vector regression (SVR), Artificial Neural Network, Long Short-Term Memory (LSTM), Complete Ensemble Empirical Mode Decomposition with Adaptive Noise-Random Forest (CEEMDAN-RF), and Complete Ensemble Empirical Mode Decomposition with Adaptive Noise - Long Short-Term Memory (CEEMDAN-LSTM). 
 </p>
-After executing these files:
-➤  <b>1. Experiments for University Dormitory Building.ipynb</b></p> 
-➤  <b>1. Experiments for University Dormitory Building.ipynb</b> 
+After executing these files:</p> 
+➤  <b>1. Experiments for University Dormitory Building.ipynb</b></p>
+➤  <b>2. Experiments for University Laboratory Building.ipynb</b></p> 
+➤  <b>3. Experiments for University Classroom Building.ipynb</b></p> 
+➤  <b>4. Experiments for Office Building.ipynb</b></p> 
+➤  <b>5. Experiments for Primary Classroom Building.ipynb</b></p> 
 </p>
-We can obtain the performance results and percentage of improvement of the proposed method compared with other benchmarking methods        
+We can obtain the performance results and percentage of improvement of the proposed method compared with other benchmarking methods </p>       
 The performance of the proposed method compared with other benchmarking methods are shown in the following tables.
 <p align="center">
   <img src="Figures/univdorm_summary_table.png" alt="Table2" width="70%" height="70%">        
