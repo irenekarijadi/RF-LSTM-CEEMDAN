@@ -38,15 +38,18 @@ This is the framework of the proposed method
 
 ## Installation Requirement
 
-The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB. 
+The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
+The python version is specified in [runtime.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/runtime.txt)
 In order to run the experiments, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
 
-* EMD-signal 0.2.10
-* pandas 0.25.3
-* keras 2.4.3
+* EMD-signal==0.2.10
+* pandas==0.25.3
+* keras==2.4.3
 * tensorflow>=2.0.0
-* sklearn 0.22.1
-* numpy 1.18.1
+* sklearn==0.22.1
+* numpy==1.18.1
+* matplolib
+* dataframe_image
 
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
@@ -69,6 +72,10 @@ Python files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
+1. Experiments for University Dormitory Building.ipynb | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
+! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
 ! main.ipynb                      | This is the main file used to conduct all the experiments using parameter settings specified in Setting.ipynb.
 Setting.ipynb                     | This is a file used to set a number of parameters that are used throughout the functions in the directory
 Plot Dataset.ipynb                | This file contains the script to visualize the data
