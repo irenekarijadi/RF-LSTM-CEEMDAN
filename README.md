@@ -44,7 +44,11 @@ An accurate method for building energy consumption prediction is important for b
 <!-- Framework-->
 <h2 id="Framework"> :page_with_curl: Framework</h2>
 This is the framework of the proposed method
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
+<p align="center">
+  <img src="Figures/Framework.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+
 
 ## Prerequisites
 
