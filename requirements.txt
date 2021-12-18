@@ -6,3 +6,4 @@ sklearn==0.0
 numpy==1.18.1
 import_ipynb==0.1.3
 matplotlib
+dataframe_image
