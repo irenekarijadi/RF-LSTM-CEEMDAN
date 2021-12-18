@@ -17,6 +17,14 @@ https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#Framework"> ➤ Framework</a></li>
+    <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#Description-of-files"> ➤ Description of files</a></li>
+    <li><a href="#Dataset"> ➤ Dataset</a></li>
 
 ➤ [Background](#Background) 
 ➤ [Framework](#Framework) 
