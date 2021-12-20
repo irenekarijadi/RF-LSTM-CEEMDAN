@@ -86,7 +86,8 @@ The complete list of packages can be found in [requirements.txt.](https://github
   <li><b>4. Experiments for Office Building.ipynb</b> - This is the main file used to conduct the experiments for office building using parameter settings specified in Setting.ipynb</li>
   <li><b>5. Experiments for Primary Classroom Building.ipynb</b> - This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.ipynb</li>
   <li><b>Setting.ipynb</b> - This is a file used to set a number of parameters that are used throughout the functions in the directory</li>
-  <li><b>Plot CEEMDAN result.ipynb</b> - This file contains the script to plot the Decomposition results </li>
+  <li><b>Plot CEEMDAN result.ipynb</b> - This file contains the script to plot the Decomposition results </li> 
+  <li><b>Plot Prediction results using proposed hybrid RF-LSTM based CEEMDAN method.ipynb</b> - This file contains the script to plot the prediction results from proposed method </li>
   <li><b>Plot Dataset.ipynb</b> - This file contains the script to visualize the data</li>
   <li><b>Linear_regression.ipynb.ipynb</b> - This file includes all functions required for LR that are used in the experiments</li>
   <li><b>support_vector_regression.ipynb.ipynb</b> - This file includes all functions required for SVR that are used in the experiments</li>
@@ -123,13 +124,15 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
                          
 1. In order to run the model, the packages need to be installed first using this line of code:
 `pip install -r requirements.txt()`
-2. To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)                    
-3. To obtain the result for University Dormitory dataset, [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb) must be executed. 
-4. To obtain the result for University Laboratory dataset, [2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/2.%20Experiments%20for%20University%20Laboratory%20Building.ipynb)must be executed. 
-5. To obtain the result for University Classroom dataset, [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb) must be executed. 
-6. To obtain the result for Office dataset, [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb) must be executed. 
-7. To obtain the result for Primary Classroom dataset, [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb) must be executed. 
-8. To visualize the decomposition results [Plot CEEMDAN result.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20CEEMDAN%20result.ipynb) must be executed. 
+2. To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
+3. To visualize the decomposition results [Plot CEEMDAN result.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20CEEMDAN%20result.ipynb) must be executed. 
+4. To obtain and visualize prediction results using proposed hybrid RF-LSTM based CEEMDAN method, must be executed                         
+5. To obtain the performance results of the proposed method compared with other prediction methods for University Dormitory dataset, [1. Experiments for University Dormitory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/1.%20Experiments%20for%20University%20Dormitory%20Building.ipynb) must be executed. 
+6.To obtain the performance results of the proposed method compared with other prediction methods for University Laboratory dataset, [2. Experiments for University Laboratory Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/2.%20Experiments%20for%20University%20Laboratory%20Building.ipynb)must be executed. 
+7. To obtain the performance results of the proposed method compared with other prediction methods for University Classroom dataset, [3. Experiments for University Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/3.%20Experiments%20for%20University%20Classroom%20Building.ipynb) must be executed. 
+8. To obtain the performance results of the proposed method compared with other prediction methods result for Office dataset, [4. Experiments for Office Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/4.%20Experiments%20for%20Office%20Building.ipynb) must be executed. 
+9. To obtain the performance results of the proposed method compared with other prediction methods result for Primary Classroom dataset, [5. Experiments for Primary Classroom Building.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/5.%20Experiments%20for%20Primary%20Classroom%20Building.ipynb) must be executed. 
+
                     
 <!-- Results-->
 <h2 id=Result>:computer: Result</h2>
