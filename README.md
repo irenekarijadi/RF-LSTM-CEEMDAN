@@ -167,7 +167,7 @@ The performance of the proposed method compared with other benchmarking methods 
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 <p align="center">
-  <img src="Figures/primclass_summary_table.png" alt="Table6" width="70%" height="70%">        
+  <img src="Figures/primclassroom_summary_table.png" alt="Table6" width="70%" height="70%">        
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 </p>                                                                                     
