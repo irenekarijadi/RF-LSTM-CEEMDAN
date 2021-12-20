@@ -122,8 +122,8 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 <!-- Reproducibility workflow -->
 <h2 id=Reproducibility workflow>:computer: Reproducibility workflow</h2>
 
-➤In order to run the model, the packages need to be installed first using this line of code:
-`pip install -r requirements.txt()`
+➤In order to run the model, the packages need to be installed first using this line of code:</p>
+`pip install -r requirements.txt()`</p>
 ➤To visualize the data, run the [Plot Dataset.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Dataset.ipynb)
 ➤To visualize the decomposition results [Plot CEEMDAN result.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20CEEMDAN%20result.ipynb) must be executed. 
 ➤To obtain and visualize prediction results using proposed hybrid RF-LSTM based CEEMDAN method, must be executed [Plot Prediction results using proposed hybrid RF-LSTM based CEEMDAN method.ipynb](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Plot%20Prediction%20results%20using%20proposed%20hybrid%20RF-LSTM%20based%20CEEMDAN%20method.ipynb) must be executed.                        
