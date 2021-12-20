@@ -6,5 +6,9 @@ data of UnivClass_Abby.csv -> this file contains Hourly energy consumption from 
 data of Office_Abigail.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
 data of PrimClass_Jaden.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
 
+Each building includes hourly energy consumption data which is stored in column with header 'energy'
+We build univariate prediction method using hourly energy consumption data for each building. 
+
+
 For more information about the dataset, please refer to publication below:
 [1] C. Miller, F. Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, in: Energy Procedia, 2017. 
