@@ -1,0 +1,10 @@
+In this study, we used a public dataset from the Building Data Genome project [1]. The Building Data Genome project has collected data from whole-building electrical meters. Hourly energy consumption data from March to May 2015 of five different buildings were analyzed in this study. We used five different buildings:
+
+data of UnivDorm_Prince.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
+data of UnivLab_Christy.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
+data of UnivClass_Abby.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
+data of Office_Abigail.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
+data of PrimClass_Jaden.csv -> this file contains Hourly energy consumption from University Dormitory building that we used in this study
+
+For more information about the dataset, please refer to publication below:
+[1] C. Miller, F. Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, in: Energy Procedia, 2017. 
