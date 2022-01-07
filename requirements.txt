@@ -1,5 +1,5 @@
 EMD-signal==0.2.10
-git+https://github.com/tensorflow/docs
+#git+https://github.com/tensorflow/docs
 pandas==0.25.3
 tensorflow>=2.0.0
 sklearn==0.0
