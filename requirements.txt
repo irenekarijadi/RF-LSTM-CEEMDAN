@@ -1,9 +1,8 @@
 EMD-signal==0.2.10
-#git+https://github.com/tensorflow/docs
 pandas==0.25.3
 tensorflow>=2.0.0
 sklearn==0.0
-numpy==1.18.1
+numpy>=1.21
 import_ipynb==0.1.3
 matplotlib
 dataframe_image
