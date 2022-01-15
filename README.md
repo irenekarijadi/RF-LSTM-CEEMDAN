@@ -1,7 +1,7 @@
 # Building Energy Consumption Prediction  
 ## A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction  
 
-This is the original source code used for all experiments in the paper  *"A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"* 
+This is the original source code used for all experiments in the paper "A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)
 
@@ -37,6 +37,10 @@ In order to run the experiments, a number of packages need to be installed. Here
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
 
+In order to run the model, the packages need to be installed first using this line of code:
+`pip install -r requirements.txt()`
+
+
 ## Description of File
 Non-python file
 * Dataset - This folder includes all dataset used in this study
@@ -59,7 +63,7 @@ Python Files:
 * `Setting.py` - This is python script includes a number of parameters that are used throughout the functions in the directory
 
 
-## DATASET
+## Dataset
 We used a public dataset from the [Building Data Genome Project](https://www.google.com/searchq=building+data+genome+project&oq=Building+Data+Genome+Project&aqs=chrome.0.35i39j69i59l2j69i64j69i59j69i60l3.558j0j7&sourceid=chrome&ie=UTF-8) 
 
 Five different buildings are used in this study and you can download it here:
@@ -77,41 +81,35 @@ To visualize hourly energy consumption from five buildings, please  running the 
 ## Parameter Setting
 A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the `Setting.py`
 
-
-## Reproducibility workflow 
-
-In order to run the model, the packages need to be installed first using this line of code:
-`pip install -r requirements.txt()`
-
-### Experiments
-
-1. All experiments on University Dormitory dataset can be run via the `1. Experiments for University Dormitory Building.ipynb` notebook.
-   Running all the cell in this notebook will:
+## Experiments
+### Workflow 
+1. Run the `1. Experiments for University Dormitory Building.ipynb`
+   By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on University Dormitory dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Dormitory dataset. This output is used as part of Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Dormitory dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
-2. All experiments on University Laboratory dataset can be run via the `2. Experiments for University Laboratory Building.ipynb` notebook.
-   Running all the cell in this notebook will:
+2. Run the `2. Experiments for University Laboratory Building.ipynb`
+   By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on University Laboratory dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Laboratory dataset. This output is used as part of  Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Laboratory dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
-3. All experiments on University Classroom dataset can be run via the `3. Experiments for University Classroom Building.ipynb` notebook.
-   Running all the cell in this notebook will:
+3. Run the `3. Experiments for University Classroom Building.ipynb`
+   By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on University Classroom dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Classroom dataset. This output is used as part of Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Classroom dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
 
-4. All experiments on Office dataset can be run via the `4. Experiments for Office Building.ipynb` notebook.
-   Running all the cell in this notebook will:
+4. Run the `4. Experiments for Office Building.ipynb`
+   By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on Office dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
-5. All experiments on Primary Classroom dataset can be run via the `5. Experiments for Primary Classroom Building.ipynb` notebook.
-    Running all the cell in this notebook will:
+5. Run the `5. Experiments for Primary Classroom Building.ipynb`
+   By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on Primary Classroom dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Primary Classroom dataset. This output is used as part of Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on Primary Classroom dataset. This output is used as part of Table 4 Section 4.4 in the paper 
