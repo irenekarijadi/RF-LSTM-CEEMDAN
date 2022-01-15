@@ -3,7 +3,7 @@
 
 This is the original source code used for all experiments in the paper  *"A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"* 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)<br />
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)
 Access this Binder by clicking the blue badge above
 
 ## Authors
@@ -102,13 +102,13 @@ In order to run the model, the packages need to be installed first using this li
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Classroom dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
 
-4. All experiments on University Laboratory dataset can be run via the `4. Experiments for Office Building.ipynb` notebook.
+4. All experiments on Office dataset can be run via the `4. Experiments for Office Building.ipynb` notebook.
    Running all the cell in this notebook will:
    - Train and test the proposed method and other benchmark methods on Office dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 3 Section 4.4 in the paper
    - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 4 Section 4.4 in the paper 
 
-5. All experiments on University Laboratory dataset can be run via the `5. Experiments for Primary Classroom Building.ipynb` notebook.
+5. All experiments on Primary Classroom dataset can be run via the `5. Experiments for Primary Classroom Building.ipynb` notebook.
     Running all the cell in this notebook will:
    - Train and test the proposed method and other benchmark methods on Primary Classroom dataset. 
    - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Primary Classroom dataset. This output is used as part of Table 3 Section 4.4 in the paper
