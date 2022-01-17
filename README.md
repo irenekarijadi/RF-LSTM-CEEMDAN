@@ -83,6 +83,7 @@ A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are def
 
 ## Experiments
 The code that generated results presented in table 3 and 4 Section 4.4 in the paper can be executed from these notebooks:
+
 `1. Experiments for University Dormitory Building.ipynb`
 
 `2. Experiments for University Dormitory Building.ipynb`
@@ -93,10 +94,9 @@ The code that generated results presented in table 3 and 4 Section 4.4 in the pa
 
 `5. Experiments for University Dormitory Building.ipynb`
 
+notes: The number indicate the order of the files need to be run
 
 ### Workflow
-
-
 
 1. Run the `1. Experiments for University Dormitory Building.ipynb`
    By running all the cell in this notebook, it will:
