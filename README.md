@@ -82,7 +82,18 @@ To visualize hourly energy consumption from five buildings, please  running the 
 A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the `Setting.py`
 
 ## Experiments
-### Workflow 
+The code that generated results presented in table 3 and 4 Section 4.4 in the paper can be executed from these notebooks:
+`1. Experiments for University Dormitory Building.ipynb`
+`2. Experiments for University Dormitory Building.ipynb`
+`3. Experiments for University Dormitory Building.ipynb`
+`4. Experiments for University Dormitory Building.ipynb`
+`5. Experiments for University Dormitory Building.ipynb`
+
+
+### Workflow
+
+
+
 1. Run the `1. Experiments for University Dormitory Building.ipynb`
    By running all the cell in this notebook, it will:
    - Train and test the proposed method and other benchmark methods on University Dormitory dataset. 
