@@ -19,7 +19,7 @@ An accurate method for building energy consumption prediction is important for b
 
 ## Framework
 This is the framework of the proposed method      
-![Alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/Framework.png)
+![Alt text](Figures/Framework.png)
 
 ## Prerequisites
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
@@ -75,7 +75,7 @@ Five different buildings are used in this study and you can download it here:
 
 To visualize hourly energy consumption from five buildings, please  running the `Plot Dataset.ipynb`
 
-![alt text](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/Figures/hourly%20energy%20consumption%20from%20five%20buildings.png)
+![alt text](Figures/hourly%20energy%20consumption%20from%20five%20buildings.png)
 
 
 ## Parameter Setting
