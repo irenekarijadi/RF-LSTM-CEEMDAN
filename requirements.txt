@@ -5,4 +5,3 @@ sklearn==0.0
 numpy>=1.21
 matplotlib
 dataframe_image
-cudatoolkit==10.1
