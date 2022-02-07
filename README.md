@@ -1,7 +1,7 @@
 # Building Energy Consumption Prediction  
 ## A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction  
 
-This is the original source code used for all experiments in the paper "A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction"
+This is the original source code used for all experiments in the paper [A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction](https://www.sciencedirect.com/science/article/pii/S0378778822000792)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irenekarijadi/RF-LSTM-CEEMDAN/HEAD)
 
