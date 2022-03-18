@@ -11,7 +11,7 @@ Access this Binder by clicking the blue badge above
 If you use the code in this paper, please cite the paper as below:
 
 
-Karijadi, I., & Chou, S. Y. (2022). A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction. Energy and Buildings, 259, 111908.
+*Karijadi, I., & Chou, S. Y. (2022). A hybrid RF-LSTM based on CEEMDAN for improving the accuracy of building energy consumption prediction. Energy and Buildings, 259, 111908*
 
 ## Authors
 
